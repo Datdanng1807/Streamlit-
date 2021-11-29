@@ -4,7 +4,6 @@ import seaborn as sns
 import os # accessing directory structure
 import pandas as pd
 import streamlit as st
-import plotly.express as px
 st.set_page_config(page_title="NHÓM DATA VISUALIZATION [NGHỊ]",
                   page_icon=":satisfied:",
                   layout="wide")
