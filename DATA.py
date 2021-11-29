@@ -216,8 +216,7 @@ st.write("""
 - Nâng cao ý thức, hiểu biết người dân phải có trách nhiệm thực hiện nghiêm luật giao thông đường bộ, bên cạnh đó có các hình thức tuyên truyền hoặc thông tin đại chúng như: làm các bảng khẩu hiệu giao thông, các chương trình an toàn giao thông… 
 - Vận động người dân tham gia giao thông bằng phương tiện giao thông công cộng để giảm thiểu mật độ tham gia giao thông.
 - Tăng cường quản lý trật tự an toàn giao thông đường bộ, tiến hành xử phạt nghiêm đối với các trường hợp vi phạm.
-- 
-Đặt các cột đèn xanh đèn đỏ, biển cảnh báo lớn tại các tuyến đường ngã ba ngã tư nguy hiểm để người điều khiển có thể chú ý khi tham gia giao thông.
+- Đặt các cột đèn xanh đèn đỏ, biển cảnh báo lớn tại các tuyến đường ngã ba ngã tư nguy hiểm để người điều khiển có thể chú ý khi tham gia giao thông.
 """)
 # 2.4. Phân tích mức độ thương vong của tai nạn giao thông theo nhóm người trong từng quý của năm 2017 và 2018 (va chạm, bị thương, tử vong)
 st.subheader("""
